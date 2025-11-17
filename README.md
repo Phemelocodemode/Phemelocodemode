@@ -95,12 +95,18 @@ Contributed to UI structure, page layout & documentation.
 
 ---
 
-# 📊 GitHub Stats  
+## 📊 GitHub Activity & Stats
+
 <div align="center">
 
+<!-- GitHub readme stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=Phemelocodemode&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phemelocodemode&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+<!-- Streak (shows once the service can read your public contributions) -->
+<img src="https://streak-stats.demolab.com/?user=Phemelocodemode&theme=tokyonight" height="160" />
+
+<!-- Fallback contribution chart (if streak service fails) -->
+<img src="https://ghchart.rshah.org/Phemelocodemode" height="160" />
 
 </div>
 
@@ -134,3 +140,4 @@ Contributed to UI structure, page layout & documentation.
 
 ### ⭐ _"Improving my craft one project at a time."_  
 </div>
+
