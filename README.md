@@ -110,14 +110,6 @@ Contributed to UI structure, page layout & documentation.
 ---
 
 # 🧠 Random Dev Quote
-
-<div align="center">
-
-<img src="https://readme-quote.vercel.app/api?quote=Data%20will%20talk%20to%20you%20if%20you%27re%20willing%20to%20listen.&author=Jim%20Bergeson&theme=tokyonight" />
-
-</div>
-
-
 <div align="center">
 
 <img src="./assets/quote.svg" alt="Custom quote" />
