@@ -117,6 +117,13 @@ Contributed to UI structure, page layout & documentation.
 
 </div>
 
+
+<div align="center">
+
+<img src="./assets/quote.svg" alt="Custom quote" />
+
+</div>
+
 ---
 
 # 🔗 Connect With Me  
