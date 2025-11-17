@@ -108,9 +108,6 @@ Contributed to UI structure, page layout & documentation.
 <!-- top langs (try this first) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phemelocodemode&layout=compact&theme=tokyonight&cache_seconds=0&hide_border=true)
 
-<!-- fallback chart if top-langs still fails -->
-![GitHub Chart](https://ghchart.rshah.org/Phemelocodemode)
-
 </div>
 
 ---
