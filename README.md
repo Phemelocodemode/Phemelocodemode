@@ -99,11 +99,11 @@ Contributed to UI structure, page layout & documentation.
 
 <div align="center">
 
-<!-- main stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Phemelocodemode&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-
 <!-- streak -->
 <img src="https://streak-stats.demolab.com/?user=Phemelocodemode&theme=tokyonight" height="160" />
+
+<!-- main stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Phemelocodemode&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
 
 <!-- top langs (try this first) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phemelocodemode&layout=compact&theme=tokyonight&cache_seconds=0&hide_border=true)
