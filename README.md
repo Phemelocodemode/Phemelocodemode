@@ -1,67 +1,55 @@
 <div align="center">
 
-# 🚀 Phemelo Sebopelo  
-### Aspiring Data Analyst • SQL • Python • Tableau
-
-I build clean, real-world data projects and document my growth journey.  
-My GitHub is my archive of consistency, learning, and improving my craft daily.
+# 👋 Hey, I'm **Phemelo Sebopelo**
+### Aspiring Data Analyst • SQL • Python • Tableau  
+Documenting my journey, building real projects, and improving my craft every day.
 
 ---
 
-## 🌐 Banner
-██████╗ ██╗ ██╗███████╗███╗ ███╗███████╗██╗ ██████╗
-██╔══██╗██║ ██║██╔════╝████╗ ████║██╔════╝██║ ██╔═══██╗
-██████╔╝███████║█████╗ ██╔████╔██║█████╗ ██║ ██║ ██║
-██╔══██╗██╔══██║██╔══╝ ██║╚██╔╝██║██╔══╝ ██║ ██║ ██║
-██████╔╝██║ ██║███████╗██║ ╚═╝ ██║███████╗███████╗╚██████╔╝
-╚═════╝ ╚═╝ ╚═╝╚══════╝╚═╝ ╚═╝╚══════╝╚══════╝ ╚═════╝
-
-yaml
-Copy code
-*(Replace with an image banner later if you want.)*
+## 🌐 About Me
+- 🔍 I focus on **Data Analysis**, SQL, Python, dashboards & automation  
+- 📊 I enjoy turning raw messy data into clean insights  
+- 🧪 I build small but real data projects to sharpen my skills  
+- 🔧 Currently creating my **personal portfolio website**  
+- 🚀 I learn in public and use GitHub as my growth archive  
+- 📚 Always levelling up — Python, SQL, Tableau, Git, and more  
 
 ---
 
 ## 🧰 Tech Stack
+### 🟨 Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Languages
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="45px"/>
+### 🎨 Frontend  
+![HTML](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frontend
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45px"/>
+### 📊 Data & Visualization  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=Jupyter&logoColor=white)
 
-### Data & Visualization
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="45px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45px"/>
-
-### Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45px"/>
-
-</div>
+### 🔧 Tools  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats  
-*(Selected the most reliable + aesthetic cards)*
-
+## 📈 GitHub Stats
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Phemelocodemode&show_icons=true&theme=tokyonight" height="160" />
+![Stats](https://github-readme-stats.vercel.app/api?username=Phemelocodemode&show_icons=true&theme=tokyonight&hide_border=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phemelocodemode&layout=compact&theme=tokyonight" height="160" />
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Phemelocodemode&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake (Animated)
-
+## 🐍 Contribution Snake
 <div align="center">
   
 ![snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
@@ -71,42 +59,41 @@ Copy code
 
 ---
 
-## 📁 Highlighted Projects  
-*(Put your best ones here — I added placeholders for now)*
+## 🔥 Highlighted Projects
 
-### 📌 Netflix Data Analysis (Python)
-➡️ Data cleaning, visualization, insights  
-➡️ Pandas + Matplotlib  
+### 📌 **Netflix Data Analysis**  
+Python • Pandas • Matplotlib  
+→ Cleaning, filtering, visualizing trends
 
-### 📌 South African Crime Data Analysis  
-➡️ Trend analysis & rate calculations  
-➡️ Automated CSV processing  
+### 📌 **SA Crime Data Analysis**  
+Python • CSV automation • Visual insights  
+→ Crime rates, categories, comparison charts
 
-### 📌 Bankruptcy Prediction ML Model  
-➡️ Logistic Regression + Random Forest  
-➡️ Feature engineering & evaluation  
+### 📌 **Bankruptcy Prediction (ML)**  
+Python • Scikit-learn  
+→ Logistic Regression + Random Forest
 
-### 📌 VITACARE Telemedicine (Group Project)
-➡️ UI layout, HTML/CSS structure, documentation  
-➡️ SDLC-based system design
-
----
-
-## 🎯 Current Focus  
-- Improving SQL queries & analytics  
-- Building Tableau dashboards  
-- Polishing my Python data portfolio  
-- Growing my GitHub streak & activity  
-- Launching my HTML personal website  
+### 📌 **VITACARE Telemedicine (Group Project)**  
+HTML • CSS • SDLC  
+→ UI layout, structure, and documentation
 
 ---
 
-## 🔗 Connect With Me  
-📧 **Email:** phemelosebopelo14@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/phemelo-sebopelo-a428712b2/  
+## 🧠 Random Dev Quote
+> *"Data will talk to you if you're willing to listen."*  
+> — Jim Bergeson  
+
+---
+
+## 🔗 Connect with Me
+
+📧 Email: **phemelosebopelo14@gmail.com**  
+🔗 LinkedIn: **https://www.linkedin.com/in/phemelo-sebopelo-a428712b2/**  
+
+---
 
 <div align="center">
-  
-### ⭐ _"Improving my craft one project at a time."_  
+
+### ⭐ _"Improving my craft one project at a time."_
 
 </div>
