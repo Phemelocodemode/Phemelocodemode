@@ -113,7 +113,11 @@ Contributed to UI structure, page layout & documentation.
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
+<div style="padding: 20px; border-radius: 10px; max-width: 600px; background-color: #1a1a2e; color: #e0e0e0; text-align: center;">
+
+> <span style="color:#2dd4bf; font-size:22px;">“Data will talk to you if you're willing to listen.”</span>  
+>  
+> <span style="color:#60a5fa;">— Jim Bergeson</span>
 
 </div>
 
