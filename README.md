@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Phemelo
 
-<!--
-**Phemelocodemode/Phemelocodemode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst focused on **SQL, Python, Tableau**, and building clean, real-world projects.  
+I enjoy turning data into simple insights and improving my skills one project at a time.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Tools
+**Languages:** SQL · Python · JavaScript · HTML · CSS  
+**Data:** Tableau · Pandas · Excel  
+**Tools:** Git · GitHub · VS Code · Jupyter Notebook
+
+---
+
+## 📌 Current Focus
+- Sharpening SQL & analytics fundamentals  
+- Working on small Python + Tableau projects  
+- Building a simple HTML portfolio for my work  
+- Becoming consistent with documenting my learning
+
+---
+
+## 📈 Mini Projects I Work On
+- Data cleaning & EDA with Python  
+- Small SQL exercises & case studies  
+- Dashboard experiments (Tableau & Excel)  
+
+*(More polished projects coming soon.)*
+
+---
+
+## 🔗 Connect
+📧 phemelosebopelo14@gmail.com  
+🔗 LinkedIn:www.linkedin.com/in/phemelo-sebopelo-a428712b2
+
+
