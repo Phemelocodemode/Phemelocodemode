@@ -1,9 +1,9 @@
 <div align="center">
 
-# 👋 Hi, I'm **Phemelo Sebopelo**
+# 👋 Hi, I'm **Phemelo Sebopelo**  
 ### Aspiring Data Analyst • SQL • Python • Tableau  
 
-I build small, real-world data projects and document my growth.  
+I build real-world data projects and document my growth.  
 Focused on clarity, clean visuals, and getting better every day.
 
 ---
@@ -12,11 +12,11 @@ Focused on clarity, clean visuals, and getting better every day.
 <!-- When your banner is ready, replace this with:
 <img src="assets/banner.png" width="100%" />
 -->
+</div>
 
 ---
 
-## 💻 Tech Stack
-</div>
+# 💻 Tech Stack  
 
 ### 🟨 Languages  
 <div align="center">
@@ -56,15 +56,16 @@ Focused on clarity, clean visuals, and getting better every day.
 ---
 
 # 📌 About Me  
+
 I’m a BSc IT student building a strong foundation in data analysis and practical development.  
 I enjoy cleaning data, exploring datasets, writing SQL queries, building dashboards,  
-and turning raw numbers into clean, understandable visuals.
+and turning raw information into clear, understandable insights.
 
 - 🔍 Interested in data analytics & automation  
 - 📊 Working with SQL, Python, Pandas, Tableau  
 - 🌱 Creating a clean HTML portfolio  
 - 🔧 Documenting growth through real projects  
-- 🚀 Improving my craft one day at a time  
+- 🚀 Improving my craft one project at a time  
 
 ---
 
@@ -74,13 +75,19 @@ and turning raw numbers into clean, understandable visuals.
 **Python • Pandas • Matplotlib**  
 Cleaned & analyzed Netflix titles, visualized insights about genres & content trends.
 
+---
+
 ### 📌 **South African Crime Data Analysis**  
 **Python • CSV Automation**  
-Explored crime rates, categories, & visualized nationwide crime trends.
+Explored crime rates, categories & visualized nationwide crime trends.
+
+---
 
 ### 📌 **Bankruptcy Prediction (ML)**  
 **Python • Scikit-learn**  
 Built Logistic Regression + Random Forest models on financial bankruptcy dataset.
+
+---
 
 ### 📌 **VITACARE Telemedicine (Group Project)**  
 **HTML • CSS**  
@@ -109,17 +116,16 @@ Contributed to UI structure, page layout & documentation.
 
 ---
 
-# 🧠 Random Dev Quote
+# 🧠 Random Dev Quote  
 <div align="center">
-
-<img src="./assets/quote.svg" alt="Custom quote" />
-
+  <img src="./assets/quote.svg" alt="Custom quote" />
 </div>
 
 ---
 
 # 🔗 Connect With Me  
-📧 **Email:** phemelosebopelo14@gmail.com**  
+
+📧 **Email:** phemelosebopelo14@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/phemelo-sebopelo-a428712b2/  
 
 ---
@@ -127,5 +133,4 @@ Contributed to UI structure, page layout & documentation.
 <div align="center">
 
 ### ⭐ _"Improving my craft one project at a time."_  
-
 </div>
