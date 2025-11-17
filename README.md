@@ -35,14 +35,10 @@ I enjoy turning data into simple insights and improving my skills one project at
 
 ---
 
-<div align="center">
-
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Phemelocodemode&show_icons=true&theme=tokyonight" height="170" />
+![Stats](https://github-readme-stats.vercel.app/api?username=Phemelocodemode&show_icons=true&theme=tokyonight)
 
-<img src="https://streak-stats.demolab.com/?user=Phemelocodemode&theme=tokyonight" height="170" />
+![Streak](https://streak-stats.demolab.com/?user=Phemelocodemode&theme=tokyonight)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phemelocodemode&layout=compact&theme=tokyonight" height="170" />
-
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phemelocodemode&layout=compact&theme=tokyonight)
