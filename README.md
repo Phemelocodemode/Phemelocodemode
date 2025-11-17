@@ -110,7 +110,12 @@ Contributed to UI structure, page layout & documentation.
 ---
 
 # 🧠 Random Dev Quote  
-> *"Data will talk to you if you're willing to listen."* — Jim Bergeson
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
+
+</div>
 
 ---
 
