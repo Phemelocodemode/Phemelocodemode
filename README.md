@@ -33,4 +33,12 @@ I enjoy turning data into simple insights and improving my skills one project at
 📧 phemelosebopelo14@gmail.com  
 🔗 LinkedIn: www.linkedin.com/in/phemelo-sebopelo-a428712b2
 
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Phemelocodemode&show_icons=true&theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Phemelocodemode&theme=tokyonight)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Phemelocodemode&layout=compact&theme=tokyonight)
+
 
