@@ -119,6 +119,13 @@ Contributed to UI structure, page layout & documentation.
 >  
 > <span style="color:#60a5fa;">— Jim Bergeson</span>
 
+
+<div align="center">
+
+<img src="https://readme-quote.vercel.app/api?quote=Data%20will%20talk%20to%20you%20if%20you're%20willing%20to%20listen.&author=Jim%20Bergeson&theme=dark">
+
+</div>
+
 </div>
 
 ---
