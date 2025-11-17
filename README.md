@@ -31,6 +31,6 @@ I enjoy turning data into simple insights and improving my skills one project at
 
 ## 🔗 Connect
 📧 phemelosebopelo14@gmail.com  
-🔗 LinkedIn:www.linkedin.com/in/phemelo-sebopelo-a428712b2
+🔗 LinkedIn: www.linkedin.com/in/phemelo-sebopelo-a428712b2
 
 
