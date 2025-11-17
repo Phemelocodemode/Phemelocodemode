@@ -109,22 +109,11 @@ Contributed to UI structure, page layout & documentation.
 
 ---
 
-# 🧠 Random Dev Quote  
+# 🧠 Random Dev Quote
 
 <div align="center">
 
-<div style="padding: 20px; border-radius: 10px; max-width: 600px; background-color: #1a1a2e; color: #e0e0e0; text-align: center;">
-
-> <span style="color:#2dd4bf; font-size:22px;">“Data will talk to you if you're willing to listen.”</span>  
->  
-> <span style="color:#60a5fa;">— Jim Bergeson</span>
-
-
-<div align="center">
-
-<img src="https://readme-quote.vercel.app/api?quote=Data%20will%20talk%20to%20you%20if%20you're%20willing%20to%20listen.&author=Jim%20Bergeson&theme=dark">
-
-</div>
+<img src="https://readme-quote.vercel.app/api?quote=Data%20will%20talk%20to%20you%20if%20you%27re%20willing%20to%20listen.&author=Jim%20Bergeson&theme=tokyonight" />
 
 </div>
 
