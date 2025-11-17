@@ -35,6 +35,14 @@ I enjoy turning data into simple insights and improving my skills one project at
 
 ---
 
+## 🧰 Tech Stack
+
+### Languages:
+<img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/dev
+
+---
+
 ## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Phemelocodemode&show_icons=true&theme=tokyonight)
