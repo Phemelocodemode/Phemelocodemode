@@ -1,0 +1,22 @@
+<!-- Save this exact content as assets/quote.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#0f1724"/>
+      <stop offset="1" stop-color="#0b1220"/>
+    </linearGradient>
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="6" stdDeviation="12" flood-color="#000" flood-opacity="0.45"/>
+    </filter>
+  </defs>
+
+  <rect rx="18" ry="18" width="1160" height="240" x="20" y="30" fill="url(#g)" filter="url(#shadow)"/>
+  <g transform="translate(60, 70)">
+    <text x="0" y="20" font-family="Inter, Arial, sans-serif" font-size="22" fill="#9be7d6">“Data will talk to you if you're willing to listen.”</text>
+
+    <text x="0" y="70" font-family="Inter, Arial, sans-serif" font-size="18" fill="#9fbdf9">— Jim Bergeson</text>
+  </g>
+
+  <!-- subtle accent -->
+  <rect x="44" y="30" width="8" height="240" rx="4" fill="#2dd4bf" opacity="0.18"/>
+</svg>
