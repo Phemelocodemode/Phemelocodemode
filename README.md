@@ -131,11 +131,15 @@ Contributed to UI structure, page layout & documentation.
 
 ---
 
-# 🔗 Connect With Me  
+# 📬 Let’s Connect
 
 📧 **Email:** phemelosebopelo14@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/phemelo-sebopelo-a428712b2/  
 
+
+Portfolio
+LinkedIn
+GitHub
 ---
 
 <div align="center">
