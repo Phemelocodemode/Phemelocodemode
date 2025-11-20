@@ -131,19 +131,21 @@ Contributed to UI structure, page layout & documentation.
 
 ---
 
-# 📬 Let’s Connect
+## 🤝 Let's Connect  
 
-📧 **Email:** phemelosebopelo14@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/phemelo-sebopelo-a428712b2/  
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=firefox&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phemelo-sebopelo-a428712b2/)
+[![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Phemelocodemode)
+[![Resume PDF](https://img.shields.io/badge/Resume-PDF-EF4444?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Phemelo-Sebopelo-CV.pdf)
 
-
-Portfolio
-LinkedIn
-GitHub
 ---
 
-<div align="center">
+⭐ *"This repo isn't just code — it's my story, my brand, and my way of connecting with the world."*
 
-### ⭐ _"Improving my craft one project at a time."_  
+<div align="center">
+  
+**Developed by — _Phemelo Sebopelo_**
+
 </div>
 
+---
