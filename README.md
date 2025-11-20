@@ -133,10 +133,13 @@ Contributed to UI structure, page layout & documentation.
 
 ## 🤝 Let's Connect  
 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pray4phemz)
+[![Email](https://img.shields.io/badge/Email-FFB800?style=for-the-badge&logo=gmail&logoColor=black)](mailto:phemelosebopelo14@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/27633136167)
+[![Call Me](https://img.shields.io/badge/Phone-0633136167-0A0A0A?style=for-the-badge)](tel:+27633136167)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=firefox&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phemelo-sebopelo-a428712b2/)
-[![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Phemelocodemode)
-[![Resume PDF](https://img.shields.io/badge/Resume-PDF-EF4444?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Phemelo-Sebopelo-CV.pdf)
+[![Resume PDF](https://img.shields.io/badge/Resume-PDF-EF4444?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](/mnt/data/Phemelo%20Sebopelo%20CV.pdf)
 
 ---
 
