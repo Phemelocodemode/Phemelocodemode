@@ -67,12 +67,6 @@ and turning raw information into clear, understandable insights.
 
 # 📁 Highlighted Projects  
 
-### 📌 **Netflix Data Analysis**  
-**Python • Pandas • Matplotlib**  
-Cleaned & analyzed Netflix titles, visualized insights about genres & content trends.
-
----
-
 ### 📌 **HNG Ride Performance & Revenue Analytics**  
 **SQL (PostgreSQL)**  
 Analyzed multi-table ride-hailing data (7,000+ records) to uncover revenue trends,  
@@ -84,6 +78,12 @@ top-performing drivers, ride duration patterns, and rider behavior using joins a
 **SQL • Power BI • Excel**  
 Performed end-to-end retail sales analysis on 8,000+ records, including data cleaning,  
 KPI calculation, outlet performance evaluation, and revenue insights supported by dashboards.
+
+---
+
+### 📌 **Netflix Data Analysis**  
+**Python • Pandas • Matplotlib**  
+Cleaned & analyzed Netflix titles, visualized insights about genres & content trends.
 
 ---
 
