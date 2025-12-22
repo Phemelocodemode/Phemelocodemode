@@ -8,14 +8,6 @@ Focused on clarity, clean visuals, and getting better every day.
 
 ---
 
-## 🌐 Banner (Coming Soon)
-<!-- When your banner is ready, replace this with:
-<img src="assets/banner.png" width="100%" />
--->
-</div>
-
----
-
 # 💻 Tech Stack  
 
 ### 🟨 Languages  
