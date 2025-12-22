@@ -6,12 +6,6 @@
 I build real-world data projects and document my growth.  
 Focused on clarity, clean visuals, and getting better every day.
 
----
-
-## 🌐 Banner (Coming Soon)
-<!-- When your banner is ready, replace this with:
-<img src="assets/banner.png" width="100%" />
--->
 </div>
 
 ---
@@ -59,7 +53,7 @@ Focused on clarity, clean visuals, and getting better every day.
 
 # 📌 About Me  
 
-I’m a BSc IT student building a strong foundation in data analysis and practical development.  
+I’m a **BSc IT graduate** building a strong foundation in data analysis and practical development.  
 I enjoy cleaning data, exploring datasets, writing SQL queries, building dashboards,  
 and turning raw information into clear, understandable insights.
 
@@ -79,15 +73,17 @@ Cleaned & analyzed Netflix titles, visualized insights about genres & content tr
 
 ---
 
-### 📌 **South African Crime Data Analysis**  
-**Python • CSV Automation**  
-Explored crime rates, categories & visualized nationwide crime trends.
+### 📌 **HNG Ride Performance & Revenue Analytics**  
+**SQL (PostgreSQL)**  
+Analyzed multi-table ride-hailing data (7,000+ records) to uncover revenue trends,  
+top-performing drivers, ride duration patterns, and rider behavior using joins and aggregations.
 
 ---
 
-### 📌 **Bankruptcy Prediction (ML)**  
-**Python • Scikit-learn**  
-Built Logistic Regression + Random Forest models on financial bankruptcy dataset.
+### 📌 **VistaCart Retail Sales Data Analysis**  
+**SQL • Power BI • Excel**  
+Performed end-to-end retail sales analysis on 8,000+ records, including data cleaning,  
+KPI calculation, outlet performance evaluation, and revenue insights supported by dashboards.
 
 ---
 
@@ -150,5 +146,3 @@ Contributed to UI structure, page layout & documentation.
 **Developed by — _Phemelo Sebopelo_**
 
 </div>
-
----
