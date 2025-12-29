@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm **Phemelo Sebopelo**  
-### Aspiring Data Analyst • Excel  • SQL • Power BI • Python
+### Aspiring Data Analyst  • SQL • Excel • Power BI • Python
 
 I build real-world data projects and document my growth.  
 Focused on clarity, clean visuals, and getting better every day.
