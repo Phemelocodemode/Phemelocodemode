@@ -80,7 +80,13 @@ Through personal and academic projects, I’ve also developed strong exposure to
 
 ---
 
-# 📁 Highlighted Projects  
+# 📁 Highlighted Projects
+
+### 📌 **VITACARE Telemedicine System (Group Project)**  
+**HTML • CSS**  
+Contributed to UI structure, page layouts, and technical documentation.
+
+---
 
 ### 📌 **HNG Ride Performance & Revenue Analysis**  
 **SQL (PostgreSQL)**  
@@ -102,11 +108,6 @@ Explored and visualized media datasets to identify content distribution and genr
 
 ---
 
-### 📌 **VITACARE Telemedicine System (Group Project)**  
-**HTML • CSS**  
-Contributed to UI structure, page layouts, and technical documentation.
-
----
 
 ## 📊 GitHub Activity & Stats  
 
