@@ -1,158 +1,146 @@
 <div align="center">
 
-# 👋 Hi, I'm **Phemelo Sebopelo**  
-### IT Graduate • Software Development • Systems • Data • Networking Basics
-
-I build practical IT and software projects and document my learning journey.  
-Focused on problem-solving, clean implementation, and continuous improvement.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Phemelo%20Sebopelo&fontSize=50&fontColor=e94560&fontAlignY=38&desc=Data%20Analyst%20%7C%20Fintech%20%7C%20SQL%20%2B%20Python%20%2B%20Power%20BI&descAlignY=58&descSize=18&descColor=a8b2c1" />
 
 </div>
 
 ---
 
-# 💻 Tech Stack  
-
-### 🟨 Programming Languages  
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### I turn messy datasets into decisions that matter.
+
+Currently working as a **Data Analyst** in financial services, building reports, dashboards and pipelines that drive real business decisions. My background is in fintech data — remittances, payments, customer behaviour — and I'm pushing further into data engineering with Microsoft Fabric and Spark SQL.
+
+</div>
+
+---
+
+## 🔥 What I'm Working On
+
+- **Day job:** Data Analyst Intern at a financial services company in Cape Town — building silver layer staging in Microsoft Fabric, writing Spark SQL, and producing reporting solutions
+- **Certs:** PL-300 Power BI Data Analyst Associate in progress
+- **Portfolio:** Documenting real analysis projects on GitHub so the work doesn't go to waste
+
+---
+
+## 📁 Projects
+
+### 🏦 Mukuru Remittance Analysis
+**SQL • Python • Excel • Power BI**
+
+End-to-end analysis of 568,000+ remittance transactions for a leading African fintech company. Built paid order volume trends (MoM and YoY), customer retention metrics and a data quality validation framework across Mukuru's Southern African corridors.
+
+- 330,064 paid orders analysed across 13 months (Apr 2012 to Apr 2013)
+- Active customer base grew 53% over 11 consecutive months
+- Average Repeat Sender Rate of 62.7% — strong habitual usage signal
+- Zimbabwe corridor identified as 72% of payout volume — concentration risk flagged
+
+[View Repository →](https://github.com/Phemelocodemode/mukuru-remittance-analysis)
+
+---
+
+### 🛒 Retail Sales Analysis
+**SQL • Python • Power BI**
+
+Analysed 8,000+ retail transaction records to identify revenue trends, outlet performance and KPI drivers. Built a Power BI dashboard tracking $997K in sales with drill-down capability by region and product category.
+
+[View Repository →](https://github.com/Phemelocodemode/retail-sales-analysis)
+
+---
+
+### 🚗 Ride-Hailing Business Analysis
+**SQL • PostgreSQL**
+
+Queried multi-table ride-hailing datasets across 7,000+ records to extract driver performance metrics, revenue trends and user behaviour patterns using joins, window functions and aggregations.
+
+[View Repository →](https://github.com/Phemelocodemode/HNG-Ride-SQL-Analysis)
+
+---
+
+### 🏥 VitaCare Telemedicine System
+**Python • Data Analysis**
+
+Contributed to data processing and reporting components for a telemedicine platform. Focused on backend data flow and system documentation.
+
+[View Repository →](https://github.com/Phemelocodemode/Vitacare-TeleMedicine)
+
+---
+
+## 🛠 Tech Stack
+
+**Core Tools**
+
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-</div>
-
-### 🎨 Web & Frontend  
-<div align="center">
-
-![HTML](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</div>
-
-### 📊 Data, Databases & Analysis  
-<div align="center">
+**Data & Engineering**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-005C8C?style=for-the-badge)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-</div>
-
-### 🔧 Tools & Environment  
-<div align="center">
-
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
 
 ---
 
-# 🧠 Core IT Foundations  
+## 📜 Certifications
 
-- Object-Oriented Programming (Java, C#, C++)  
-- Databases & Relational Design  
-- Basic Networking Concepts (TCP/IP, LAN/WAN, OSI Model)  
-- System Troubleshooting & Technical Support Fundamentals  
-- Software Development Lifecycle (SDLC)  
-- Version Control & Collaborative Development  
+- ✅ Google Data Analytics Professional Certificate
+- ✅ Google Business Intelligence Certificate
+- ✅ Microsoft Azure Data Fundamentals (DP-900)
+- 🔄 Microsoft Power BI Data Analyst Associate (PL-300) — In Progress
 
 ---
 
-# 📌 About Me  
-
-I’m a **BSc IT graduate** seeking entry-level opportunities across **IT support, technician, systems, and junior software development roles**. I have a broad IT foundation built through academic training and hands-on projects, covering software development, databases, networking fundamentals, and system-level problem solving.
-
-Through personal and academic projects, I’ve also developed strong exposure to **data-driven systems**, where I work with SQL, Python, and reporting tools to extract insights and improve how information is processed and presented.
-
-- 💻 Open to IT Support, Technician & Junior Software roles  
-- 🛠️ Strong general IT and technical foundation  
-- 🗄️ Experience working with databases and system-generated data  
-- 📊 Exposure to analytics, reporting & dashboards  
-- 🌱 Continuously learning through real-world projects  
-
----
-
-# 📁 Highlighted Projects
-
-### 📌 **VITACARE Telemedicine System (Group Project)**  
-**HTML • CSS**  
-Contributed to UI structure, page layouts, and technical documentation.
-
----
-
-### 📌 **HNG Ride Performance & Revenue Analysis**  
-**SQL (PostgreSQL)**  
-Worked with multi-table ride-hailing datasets (7,000+ records) to analyze revenue trends,  
-driver performance, ride durations, and user behavior using joins and aggregations.
-
----
-
-### 📌 **VistaCart Retail Sales Analysis**  
-**SQL • Power BI • Excel**  
-Performed end-to-end retail data analysis including cleaning, KPI calculations,  
-outlet performance evaluation, and dashboard-based reporting.
-
----
-
-### 📌 **Netflix Data Exploration Project**  
-**Python • Pandas • Matplotlib**  
-Explored and visualized media datasets to identify content distribution and genre trends.
-
----
-
-
-## 📊 GitHub Activity & Stats  
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Phemelocodemode&theme=tokyonight" height="160" />
-<img src="https://github-readme-stats.vercel.app/api?username=Phemelocodemode&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phemelocodemode&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Phemelocodemode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phemelocodemode&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 
 </div>
 
----
-
-# 🐍 Contribution Snake  
 <div align="center">
 
-![snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)  
-![snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<img src="https://streak-stats.demolab.com/?user=Phemelocodemode&theme=tokyonight&hide_border=true" height="160" />
 
 </div>
 
 ---
 
-# 🧠 Random Dev Quote  
+## 🐍 Contribution Snake
+
 <div align="center">
-  <img src="./assets/quote.svg" alt="Custom quote" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Phemelocodemode/Phemelocodemode/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Phemelocodemode/Phemelocodemode/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Phemelocodemode/Phemelocodemode/output/github-contribution-grid-snake.svg" />
+</picture>
+
 </div>
 
 ---
 
-## 🤝 Let's Connect  
+## 🤝 Let's Connect
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pray4phemz)
-[![Email](https://img.shields.io/badge/Email-FFB800?style=for-the-badge&logo=gmail&logoColor=black)](mailto:phemelosebopelo14@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/27633136167)
-[![Call Me](https://img.shields.io/badge/Phone-0633136167-0A0A0A?style=for-the-badge)](tel:+27633136167)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=firefox&logoColor=white)](#)
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phemelo-sebopelo-a428712b2/)
+[![Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phemelosebopelo14@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Phemelocodemode)
+
+</div>
 
 ---
 
-⭐ *"This repository reflects my growth as an IT professional — learning, building, and improving with every project."*
-
 <div align="center">
 
-**Developed by — _Phemelo Sebopelo_**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer" />
 
 </div>
